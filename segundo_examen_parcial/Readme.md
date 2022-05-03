@@ -3,7 +3,7 @@
 Aquí se dejará constancia de la documentación de cada problema como también su respectivo código sobre el parcial 2 del Laboratorio de Simulación.
 
 ### Problema 1
-![Problema 1](Imagenes/Problema1.jpeg)
+![Problema 1](Imagenes/Diagraflujos.JPG)
 **variables de entrada y salida:**
 
 - y = Datos sobre los precios del combustible tipo regular
@@ -29,7 +29,9 @@ Aquí se dejará constancia de la documentación de cada problema como también 
 - La ecuación lineal compilado el programa es y = 0.445515x + 19.666668
 - Se compila el programa y el coeficiente de determinación es de 0.930660.
 - Gráfica de los datos
+![Problema 1](Imagenes/Curva1a.jpeg)
 - Gráfica de la ecuación lineal de la recta
+![Problema 1](Imagenes/Curva1b.jpeg)
 - Asumiendo que el gobierno tiene un tope de 30 quetzales por galon, se llegará a ese tope en 23.19 semanas si el precio se mantiene en este comportamiento
 
 
@@ -40,7 +42,7 @@ Aquí se dejará constancia de la documentación de cada problema como también 
  ```
 
  ### Problema 2
- ![Problema 1](Imagenes/Problema1.jpeg)
+ ![Problema 1](Imagenes/Diagraflujos2.JPG)
 **variables de la función principal**
  - f(x) es la función de la que obtenemos las raices.
 - df(x) es la derivada de la funcion f(x).
@@ -77,6 +79,7 @@ Aquí se dejará constancia de la documentación de cada problema como también 
 **Datos obtenidos**
 - Después de dos iteraciones la raiz de la función 2+cos(exp(x)-2)-exp(x) es 1.0076
 - Gráfica de la función f(x)
+![Problema 1](Imagenes/Curva2.jpeg)
 
 
 
