@@ -10,46 +10,46 @@ se ingrese una negativa y calucule la media, máximo y mínimo.
 //Librerias 
 #include <stdio.h>
 
-//Declaración e inicialización de variables:
+//Se declaran y se inicializan las variables:
 int x=0, n=0, max=0, min=0;
 float med=0;
 
 int main(){
-//Se leen los datos ingresados
+// Lee los datos ingresados
     puts("¡Bienvenido! Ingrese valores enteros de alturas y para terminar ingrese un valor negativo");
     puts("Ingrese una altura: ");
     scanf("%d", &x);
-//Se almacena el valor de altura en min y max
+// Almacena el valor de altura en max y min
     max=x;
     min=x;
-//Se valida que la altura sea mayor a 0
+// Valida que la altura sea mayor a 0
     while (x>=0)
     {
-//Se acumulan los datos de conteo y media para su uso final
+// Acumula los datos de conteo y media para su uso final
         n++;
         med+=x;
-//Se valúa si el valor ingresado es mayor al valor máximo de ese instante
+// Valua si el valor ingresado es mayor al valor máximo en ese instante
         if (x>max)
         {
             max=x;
         }
-//Se valúa si el valor ingresado es menor al valor mínimo de ese instante
+// Valua si el valor ingresado es menor al valor mínimo de ese instante
         if (x<min)
         {
             x=min;
         }
-//Se leen los nuevos valores ingresados
+// Lee los nuevos valores ingresados
         puts("Ingrese otra altura: ");
         scanf("%d", &x);
     }
-//Se verifica que el valor de n sea mayor a 0
+// Verifica que el valor de n sea mayor a 0
     if (n==0)
     {
         puts("No ingresó alturas válidas");
     }
     else
     {
-//Se imprimen la media, el valor máximo y mínimo
+// Imprime la media, el valor máximo y mínimo
         printf("De los valores ingresados: La media es: %f, \n El valor máximo es: %d \n El valor mínimo es: %d \n", med/n, max, min);
     }
     
