@@ -5,9 +5,9 @@
 
 **Variables de entrada y salida:**
 - n   = Cantidad de números positivos.
-- x   = Valor del número ingresado.
-- i   = Número de ingresos y es una variable de control. 
-- med = El resultado de la media aritmética.
+- x   = Valor del número que se ingreso.
+- i   = Número de ingresos. 
+- med = resultado de media aritmética.
 
 **Compilación y ejecución:**
 ```
@@ -20,11 +20,11 @@
 
 **Variables de entrada y salida:**
 - n   = Cantidad de números positivos.
-- x   = Valor del número ingresado.
-- i   = Número de ingresos y es una variable de control. 
-- med = El resultado de la media aritmética.
-- min = Variable de salida que da el mínimo de los números ingresados.
-- max = Variable de salida que da el máximo de los números ingresados.
+- x   = Valor del número que se ingreso.
+- i   = cantidad de numeros de ingreso. 
+- med = resultado de media aritmética.
+- min = es una variable de salida que muestra el mínimo de los números ingresados.
+- max = es una variable de salida de salida que muestra el máximo de los números ingresados.
 
 **Compilación y ejecución:**
 ```
@@ -36,8 +36,8 @@
 ![Problema1](Imagenes/Problema3.png)
 
 **Variables de entrada y salida:**
-- r = Variable que va aumentando hasta que se cumple la condición del ciclo.
-- n = Variable de entrada que guarda el número que ingresa el usuario. 
+- r = es una variabla que aumenta hasta que se cumple la condición del ciclo.
+- n = es una variable de entrada que guarda el número que es ingresado por el usuario. 
 
 **Compilación y ejecución:**
 ```
@@ -50,9 +50,9 @@
 
 **Variables de entrada y salida:**
 
-- i     = Contador que aumenta su valor para poder obtener el residuo de N con distintos números.
-- N     = Variable de entrada que guarda el número ingresado por el usuario.
-- primo = Condicional que ayuda a determinar si el número es primo o no. Su valor es 1 si el número es primo y 0 si no.
+- i     = Es un contador que se encarga de aumentar su valor para poder obtener el residuo de N con distintos números.
+- N     = Es una variable de entrada que se encarga de almacerna el número que es ingresado por el usuario.
+- primo = Es un condicional que nos ayuda a determinar si el número es primo o no. Si es primo su valor es 1 y si no lo es su valor es 0.
 
 
 **Compilación y ejecución:**
@@ -65,12 +65,12 @@
 ![Problema1](Imagenes/Problema5.png)
 
 **Variables de entrada y salida:**
-- N1    = Variable de entrada que guarda el límite inferior ingresado por el usuario.
-- N2    = Variable de entrada que guarda el límite superior ingresado por el usuario.
-- j     = Contador de la función primo que aumenta su valor para poder obtener el residuo de N con distintos números.
-- i     = Variable de conteo que va aumentando progresivamente desde N1 hasta N2.
-- value = Condicional que ayuda a determinar si el número es primo o no. Su valor es 1 si el número es primo y 0 si no.
-- N     = Variable de la función primo que actúa como límite superior para determinar si los números anteriores a él son primos o no.
+- N1    = Es una variable de entrada que almacena el límite inferior que es ingresado por el usuario.
+- N2    = Es una variable de entrada que almacena el límite superior ingresado por el usuario.
+- j     = Es un contador de la función primo que se encarga de aumentar su valor para poder obtener el residuo de N con distintos números.
+- i     = Es una variable de conteo que aunmenta rapidamente desde N1 hasta N2.
+- value = Es un condicional que determina si el número es primo o no. Si es primo su valor es 1 y si no lo es su valor es 0.
+- N     = Es una variable de la función primo que se ejecuta como límite superior para determinar si los números anteriores a él son primos o no.
 
 **Compilación y ejecución:**
 ```
@@ -82,11 +82,11 @@
 ![Problema1](Imagenes/Problema6.PNG)
 
 **Variables de entrada y salida:**
-- N    = Variable que representa la longitud del arreglo.
-- M    = Almacena el número de vértices del polígono ingresado por el usuario.
-- fila = Variable para moverse entre las filas del arreglo.
-- i    = Contador de la sumatoria.
-- A    = Variable que almacena el resultado de la sumatoria a lo largo de la ejecución.
+- N    = Es una variable que representa la longitud del arreglo.
+- M    = Es una variable que se encarga de almacenar el número de vértices del polígono ingresado por el usuario.
+- fila = Es una variable que sirve moverse entre las filas del arreglo.
+- i    = Es el contador de la sumatoria.
+- A    = Es la variable que se encarga de almacenar el resultado de la sumatoria a lo largo de la ejecución.
 
 **Compilación y ejecución:**
 ```

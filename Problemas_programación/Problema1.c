@@ -18,13 +18,13 @@ int main(){
     puts("Calculadora de la media aritmética");
     while (i<3)
     {   
-//Solicitar al usuario ingresar los valores de los 3 números
+//Se solicita al usuario ingresar los valores de los 3 números
         puts("Ingrese un número: ");
         scanf("%f",&x);
 //Validar que sea positivo o 0
         if (x>=0)
         {
-//Sí es cierto, se procede a acumular la cantidad de elementos positivos y sumar su valor
+//Sí es verdadero, se procede a acumular la cantidad de elementos positivos y sumar su valor
             n++;
             med+=x;
         }
@@ -33,11 +33,11 @@ int main(){
 //Validar si todos lo números son negativos
     if (n==0)
     {
-//Sí es cierto, se imprime el siguiente mensaje
+// Imprime el resulta si es verdadero 
         puts("Los valores ingresados son todos negativos");
     }else
     {
-//Si es falso, se imprime la media aritmética. Además se almacena la información obtenida en la variable med
+// Imprime la media aritmetica si es falso. 
         med=med/n;
         printf("La media aritmética de los datos es: %f \n", med);
     }

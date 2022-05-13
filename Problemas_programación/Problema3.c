@@ -18,9 +18,9 @@ int n=0, r=1;
         puts("Ingrese un número entero positivo:");
         scanf("%d", &n);
     } while (n<=0);
- //El ciclo va aumentando el valor de r hasta dejar de cumplir con la condición
+ //El ciclo aumenta el valor de r hasta dejar de cumplir con la condición
     while (r*r<=n) { r++; }     
-//Cuando r*r >= n, se imprime r-1 que sería el número mayor que cumple la condición                        
+//Cuando r*r >= n, se imprime r-1 que es el número mayor que cumple la condición                        
     printf("La raíz entera aproximada es: %d \n", r-1);     
 return 0;
 }
