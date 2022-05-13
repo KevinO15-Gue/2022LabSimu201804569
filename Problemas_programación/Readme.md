@@ -1,7 +1,7 @@
 # Problemas de Programación
 
 ### Problema 1
-![Problema1](Imagenes/Problema1.jpeg)
+![Problema1](Imagenes/Problema1.JPG)
 
 **Variables de entrada y salida:**
 - n   = Cantidad de números positivos.
@@ -16,7 +16,7 @@
  ```
 
  ### Problema 2
-![Problema1](Imagenes/Problema2.png)
+![Problema1](Imagenes/Problema2.JPG)
 
 **Variables de entrada y salida:**
 - n   = Cantidad de números positivos.
@@ -33,7 +33,7 @@
  ```
 
  ### Problema 3
-![Problema1](Imagenes/Problema3.png)
+![Problema1](Imagenes/Problema3.JPG)
 
 **Variables de entrada y salida:**
 - r = es una variabla que aumenta hasta que se cumple la condición del ciclo.
@@ -46,7 +46,7 @@
  ```
 
   ### Problema 4
-![Problema1](Imagenes/Problema4.png)
+![Problema1](Imagenes/Problema4.JPG)
 
 **Variables de entrada y salida:**
 
@@ -62,7 +62,7 @@
  ```
 
    ### Problema 5
-![Problema1](Imagenes/Problema5.png)
+![Problema1](Imagenes/Problema5.JPG)
 
 **Variables de entrada y salida:**
 - N1    = Es una variable de entrada que almacena el límite inferior que es ingresado por el usuario.
@@ -79,7 +79,7 @@
  ```
 
    ### Problema 6
-![Problema1](Imagenes/Problema6.PNG)
+![Problema1](Imagenes/Problema6.JPG)
 
 **Variables de entrada y salida:**
 - N    = Es una variable que representa la longitud del arreglo.
