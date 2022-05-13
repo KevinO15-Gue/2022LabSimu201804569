@@ -2,7 +2,7 @@
 Autor:          Kevin Orellana
 compilador:     gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
 compilar:       gcc -o Problema3.out Problema3.c
-Fecha:          05 de mayo de 2022
+Fecha:          06 de mayo de 2022
 Librerías:      stdio, stdlib
 Resumen:        Ejemplo de un programa que calcule la raiz cuadrada entera por defecto de un número N 
 positivo dado, R>0, tal que R^2<=N.

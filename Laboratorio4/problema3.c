@@ -4,7 +4,7 @@ compilador:    gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
 compilar:      gcc -o problema3.out problema3.c -lm
 Fecha:         07 de mayo de 2022
 Librerías:     stdio, math
-Resumen:       Se resuelve el problema 3 del laboratorio 4 de Lab.Simulación
+Resumen:       Se resuelve el problema 3 del laboratorio 4 de Simulación
 */
 
 //librerias
@@ -18,7 +18,7 @@ void main(){
     double A[n],B[n],C[n];
     //interruptor: bandera que me sirve para salir de un loop
     int interruptor = 1;
-    //selección: indica la opción del menú que se desea realizar
+    //opcion: indica la opción del menú que se desea realizar
     char opcion;
     //Utilizamos la siguiente función para ingresar los elementos (x,y,z) de cada vector
     puts("\nvector A(x,y,z)\n");

@@ -6,14 +6,13 @@ Fecha:          04 de mayo de 2022
 Librerías:      stdio, stdlib
 Resumen:        Se resuelve el problema 1 del laboratorio 4 de Simulación
 */
-
 //librerias
 #include <stdio.h>
 #include <stdlib.h>
 
 void main(){
     //Defino la variable opcion e inicializo
-    //Esta variabe me va a indicar el tipo de orden(descendente o ascendente)
+    //Esta variable me va a indicar el tipo de orden(descendente o ascendente)
     char opcion;
     //Ahora voy a inicializar y a ingresar todos los elementos del vector,
     int n=10;

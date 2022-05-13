@@ -2,7 +2,7 @@
 Autor:          Kevin Orellana
 compilador:     gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
 compilar:       gcc -o Problema6.out Problema6.c
-Fecha:          05 de mayo de 2022
+Fecha:          08 de mayo de 2022
 Librerías:      stdio, stdlib
 Resumen:        Ejemplo de un programa el cual solicite al usuario el numero de vertices de un poligono, luego 
 que solicite las coordenadas xy de esos vertices y debe de devolver al usuario el area de este poligono.
